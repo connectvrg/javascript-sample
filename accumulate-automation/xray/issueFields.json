@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "id": "10000"
+        },
+        "summary": "Accumulate Automation Test execution",
+        "issuetype": {
+            "id": "10024"
+        },
+        "description": "Sample Description",
+        "components" : [
+            
+        ]
+    },
+    "xrayFields": {
+        "testPlanKey": "AC-2490",
+        "environments": ""
+    }
+}

@@ -1,0 +1,2 @@
+{"type": "updateKeyPage", 
+ "operation": [{ "type": "add", "entry": { "owner": "acc://automationAdi655.acme/book", "keyHash": "6db390beb669e8781ba0bf33733b31a44ba47c736a2887ce" } }]}

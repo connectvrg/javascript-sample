@@ -1,0 +1,9 @@
+{
+    "fields": {
+        "project": {
+            "id": "10000"
+        },
+        "description": "Test issue Description",
+        "labels" : ["Server","JUnit"]
+    }
+}
